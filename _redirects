@@ -1,0 +1,2 @@
+# Proxy para Convites
+/convites/*  https://fotoartconvites.netlify.app/:splat  200
